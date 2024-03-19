@@ -1,0 +1,18 @@
+{
+    "rvc_model": [
+        "Lisa", 
+        "Klee", 
+        "YelanJP", 
+        "FuXuan",
+        "SonTung",
+        "Domixi",
+        "TaylorSwift",
+        "Adele",
+        "DenVau"
+    ], 
+    "pitch_change": [
+        "no-change", 
+        "male-to-female", 
+        "female-to-male"
+    ]
+}
